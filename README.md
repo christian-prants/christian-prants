@@ -1,6 +1,6 @@
 ## Christian Prants 💬
 
-Graduado em Design com 2 anos de experiência em desenvolvimento de software full stack, atualmente atuando como designer e aprendendo mais sobre Reactjs e Python, minha escolha de tecnologias para front e back 😄
+Graduado em Design com 2 anos de experiência em desenvolvimento de software full stack, atualmente atuando como designer e aprendendo mais sobre front e back 😄
 
 ### Tecnologias
 
