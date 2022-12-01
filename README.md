@@ -1,6 +1,10 @@
 ## Christian Prants 💬
 
-Graduado em Design com 2 anos de experiência em desenvolvimento de software full stack, atualmente atuando como designer e aprendendo mais sobre front e back 😄
+Com 2 anos de experiência em desenvolvimento e 5 anos de experiência com design, estou em transição para atuar como desenvolvedor front-end.
+
+Possuo experiência com Javascript e SQL, e sigo na rota do React e suas bibliotecas para me especializar mais na área.
+
+Seguem meus projetos mais recentes 😄
 
 ### Tecnologias
 
