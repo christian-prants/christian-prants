@@ -1,10 +1,9 @@
-## Christian Prants 💬
+## Christian Prants
 
-Com 2 anos de experiência em desenvolvimento e 5 anos de experiência com design, estou em transição para atuar como desenvolvedor front-end.
+Possuo 4 anos de experiência com desenvolvimento full stack, onde atuei com tecnologias como: Python, Java, JavaScript, ReactJS...
+Além disso tenho duas graduações uma graduação em Análise e Desenvolvimento de Software pela FIAP e outra em Design pela Univille.
 
-Possuo experiência com Javascript e SQL, e sigo na rota do React e suas bibliotecas para me especializar mais na área.
-
-Seguem meus projetos mais recentes 😄
+Seguem alguns projetos feitos enquanto cursava a graduação:
 
 ### Tecnologias
 
